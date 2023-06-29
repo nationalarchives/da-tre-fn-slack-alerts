@@ -1,4 +1,4 @@
-# tre-fn-slack-alerts
+# da-tre-fn-slack-alerts
 
 * [GitHub Actions](#github-actions)
 * [GitHub Action Secrets](#github-action-secrets)
